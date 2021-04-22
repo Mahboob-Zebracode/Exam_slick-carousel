@@ -110,3 +110,11 @@ a:focus {
 .slider {
   position: relative;
 }
+button#slick-slide-control01 {
+    top: 20px;
+    position: absolute;
+}
+button#slick-slide-control00 {
+    top: 20px;
+    position: absolute;
+}
